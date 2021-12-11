@@ -8,7 +8,7 @@ import MobileDrawer from "./mobile-drawer";
 import menuItems from "./header.data";
 
 export default function Header({ className }) {
-  return <h1>Header</h1>;
+  return <h1>Bisnisku Trip</h1>;
 }
 
 const positionAnim = keyframes`
